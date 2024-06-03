@@ -1,23 +1,11 @@
 @media (max-width: 1300px) {
-  img{
-    width: 10%;
-    height: 10%;
-  }
 }
 
 @media (max-width: 1120px) {
-  img{
-    width: 10%;
-    height: 10%;
-  }
+
 }
 
 @media (max-width: 991px) {
-
-  img{
-    width: 10%;
-    height: 10%;
-  }
   .slider_section {
     min-height: auto;
   }
